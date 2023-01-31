@@ -94,7 +94,7 @@
                             <goal>process-asciidoc</goal>
                         </goals>
                         <configuration>
-                            <sourceDocumentName>eksponeringstrekanten.adoc</sourceDocumentName>
+                            <sourceDocumentName>eksponering.adoc</sourceDocumentName>
                             <outputFile>index.html</outputFile>
                             <outputDirectory>${project.slides.directory}</outputDirectory>
                             <backend>revealjs</backend>

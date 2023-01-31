@@ -1,0 +1,34 @@
+== Definitioner
+
+* Lukketid
+* Blænde
+* ISO
+* Brændvidde
+
+
+== Lukketid
+[%step]
+* I hvor lang tid lukkes der lys ind
+* Måles i brøkdele af sekunder (eks. 30s, 1s, 1/100s, 1/1000s)
+* Hurtige lukketider fastfryser billedet
+* Langsomme lukketider giver rystede billeder
+
+
+== Blænde
+[%step]
+* Blænden er størrelsen på det "hul" der er igennem objektivet
+* Ligesom øjets pupil
+* Blændetallet er en brøk, der definerer forholdet mellem blændens diameter og objektivet brændvidde
+* Jo større blændetal, jo mindre åbning og mindre lys kommer ind
+* Et objektiv på 100mm f/4, vil have en blænde på 25mm, og tilsvarende vil en 200mm f/4 have en blændeåbning på 50mm
+* Styrer dybdeskarpheden (hvor stor del er sløret)
+
+
+== ISO
+[%step]
+* sddsffsdf
+
+
+== Brændvidde
+[%step]
+* sddsffsdf
