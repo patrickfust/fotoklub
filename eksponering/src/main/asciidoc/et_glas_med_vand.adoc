@@ -1,0 +1,25 @@
+include::doc_info.adoc[]
+
+== Et glas med vand
+
+image::glas.svg[width=300]
+[%step]
+* Et veleksponeret billede er som et glas fyldt med vand
+* Der må hverken være for meget eller for lidt vand i glasset
+* Hvordan kan vi kontrollere vandet?
+
+
+== Kontrollering af vandmængde
+
+[cols="20a,80a"]
+|===
+|image::stopur.svg[stopur,200]
+|[%step]
+* Ændre på tiden hvor vandet løber ned i glasset
+|image::vandhane.svg[vandhane,200]
+|[%step]
+* Skrue op og ned for hastigheden af vandet
+|image::glas.svg[glas,200]
+|[%step]
+* Ændre størrelsen på glasset
+|===

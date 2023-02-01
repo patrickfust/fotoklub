@@ -1,0 +1,29 @@
+include::doc_info.adoc[]
+
+== Spørgsmål før du tager et billede
+
+[%step]
+* Er der noget der bevæger sig?
+* Hvor meget billedstøj kan du acceptere?
+* Hvor meget af billedet skal være sløret?
+** Måske er det bevægelser der skal være sløret
+
+
+== Huskeregel
+
+icon:info-circle[size=lg] For at undgå rystede billeder, skal sammenhængen mellem
+
+lukkertid, brændvidde og risiko være:
+
+stem:[1/(brændvidde)]
+
+[%step]
+* 30 mm optik må man maksimalt bruge 1/30 sekund (1/60 er hurtigere, så det er jo fint)
+* 50 mm optik må man maksimalt bruge 1/50 sekund
+* 100 mm optik må man maksimalt bruge 1/100 sekund
+* You get the point
+
+
+== Spørgsmål?
+
+image:camera.svg[width=800]

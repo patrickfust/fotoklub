@@ -1,0 +1,19 @@
+include::doc_info.adoc[]
+
+== Eksponeringstrekanten
+
+image::eksponeringstrekanten.svg[width=600]
+
+[%header,cols="8a,42a,50a"]
+|===
+2+|Glas-analogi
+|Kamera
+
+|image:glas.svg[height=50]
+|Størrelsen på glasset
+|ISO
+
+|image:vandhane.svg[height=50]
+|Vandhanens hastighed
+|Blænde
+|===

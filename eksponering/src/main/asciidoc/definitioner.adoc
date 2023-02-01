@@ -1,3 +1,5 @@
+include::doc_info.adoc[]
+
 == Definitioner
 
 * Lukketid
@@ -18,17 +20,24 @@
 [%step]
 * Blænden er størrelsen på det "hul" der er igennem objektivet
 * Ligesom øjets pupil
-* Blændetallet er en brøk, der definerer forholdet mellem blændens diameter og objektivet brændvidde
+* Styrer dybdeskarpheden (hvor stor del af baggrunden/forgrunden sløret)
+* Blændetallet er en brøk, der definerer forholdet mellem blændens diameter og objektivet brændvidde (eks. f/1.8, f/2 og f/24)
 * Jo større blændetal, jo mindre åbning og mindre lys kommer ind
 * Et objektiv på 100mm f/4, vil have en blænde på 25mm, og tilsvarende vil en 200mm f/4 have en blændeåbning på 50mm
-* Styrer dybdeskarpheden (hvor stor del er sløret)
 
 
 == ISO
 [%step]
-* sddsffsdf
+* Hvor lysfølsom sensoren er
+* Den laveste ISO-værdi er normalt 100 og derefter fordobles den: 100, 200, 400, 800, 1.600, ...
+* For hvert trin fordobles følsomheden
+at man slet ikke får taget billedet.
+* Højere ISO giver mere billedstøj
 
 
 == Brændvidde
 [%step]
-* sddsffsdf
+* Hvor stor betragtningsvinkel man kan se
+* Vidvinkel er lave brændvidder (stort udsnit af synsfeltet)
+* Tele er høje brændvidder (lille udsnit af synsfeltet)
+** Trækker objekter tættere ind til dig

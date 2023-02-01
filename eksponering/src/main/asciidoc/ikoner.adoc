@@ -1,0 +1,11 @@
+include::doc_info.adoc[]
+
+icon:twitter[size=lg] twitter
+
+icon:info-circle[size=lg] info-circle
+
+icon:warning[size=lg] warning
+
+icon:lightbulb-o[size=lg] lightbulb
+
+icon:fire[size=lg] fire

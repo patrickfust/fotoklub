@@ -1,94 +1,33 @@
+include::doc_info.adoc[]
+
 = Eksponering
-:encoding: UTF-8
-:lang: dk
-:doctype: article
-:toclevels: 3
-:imagesdir: images
-:source-highlighter: highlightjs
-:highlightjsdir: highlight
-:icons: font
-:iconfont-remote!:
-:iconfont-name: font-awesome-4.7.0/css/font-awesome
-:revealjs_mouseWheel: true
-:revealjs_center: false
-:revealjs_transition: none
-:revealjs_width: 1600
-:revealjs_height: 900
-:stem: asciimath
+
+
+image:camera.svg[width=200]
 
 [%step]
 * Hvad er et veleksponeret billede?
 * Et glas med vand
-* Hvordan dælen er det relateret til eksponeringstrekanten?
+* Hvordan dælen er det relateret til eksponering?
 * Definitioner
+* Spørgsmål før du tager et billede
 
+include::veleksponeret.adoc[]
 
-== Veleksponeret
+include::et_glas_med_vand.adoc[]
 
-[%step]
-* Når sensoren i kameraet udsættes for lys, sker der en eksponering
-* Veleksponeret
-** Hvis lysmængden resulterer i et velbelyst billede, er billedet korrekt eksponeret
-* Undereksponeret
-** Hvis billedet bliver for mørkt, er det undereksponeret (eller underbelyst)
-** Der mangler detaljer i skyggeområderne
-* Overeksponeret
-** Hvis billedet er for lyst, er det overeksponeret (eller overbelyst)
-** Der mangler detaljer i højlysområderne
-
-
-== !
-image:elefant.jpg[elefant,1300]
-
-
-== !
-image:elefant-zoomed.jpg[elefant zoomet ind,1300]
-
-
-== Et glas med vand
-
-[cols="10a,90a"]
-|===
-|image::glas.svg[]
-|[%step]
-* Et veleksponeret billede er som et glas fyldt med vand
-* Der må hverken være for meget eller for lidt vand i
-* Hvordan kan vi kontrollere vandet?
-|===
-
-
-== Kontrollering af vandmængde
-
-[cols="20a,80a"]
-|===
-|image::vandhane.svg[vandhane,200]
-|[%step]
-* Skrue op og ned for hastigheden af vandet
-|image::glas.svg[glas,200]
-|[%step]
-* Ændre størrelsen på glasset
-|image::stopur.svg[stopur,200]
-|[%step]
-* Ændre på tiden hvor vandet løber ned i glasset
-|===
-
-
-== Eksponeringstrekanten
-
-image::eksponeringstrekanten.svg[width=800]
-
+include::eksponeringstrekanten.adoc[]
 
 include::definitioner.adoc[]
 
 
-== Huskeregel
+== Omregning
 
-For at undgå rystede billeder, skal sammenhængen mellem lukkertid, brændvidde og risiko være:
-
-stem:[1/(brændvidde)]
+`f/8 * 1/120 = f/16 * 1/60`
 
 [%step]
-* 30 mm optik må man maksimalt bruge 1/30 sekund (1/60 er hurtigere, så det er jo fint)
-* 50 mm optik må man maksimalt bruge 1/50 sekund
-* 100 mm optik må man maksimalt bruge 1/100 sekund
-* You get the point
+* Har man fx korrekt eksponering ved blænde `f/8` og lukker `1/120`,
+vil man også have korrekt eksponering ved blænde `f/16` og lukker `1/60`
+* For man lukker dermed halvt så meget lys ind i dobbelt så lang tid.
+
+include::spoergsmaal.adoc[]

@@ -1,0 +1,22 @@
+include::doc_info.adoc[]
+
+== Veleksponeret
+
+[%step]
+* Når sensoren i kameraet udsættes for lys, sker der en eksponering
+* Veleksponeret
+** Hvis lysmængden resulterer i et velbelyst billede, er billedet korrekt eksponeret
+* Undereksponeret
+** Hvis billedet bliver for mørkt, er det undereksponeret (eller underbelyst)
+** Der mangler detaljer i skyggeområderne
+* Overeksponeret
+** Hvis billedet er for lyst, er det overeksponeret (eller overbelyst)
+** Der mangler detaljer i højlysområderne
+
+
+== !
+image:elefant.jpg[elefant,1300,role=imageborder]
+
+
+== !
+image:elefant-zoomed.jpg[elefant zoomet ind,1300,role=imageborder]
