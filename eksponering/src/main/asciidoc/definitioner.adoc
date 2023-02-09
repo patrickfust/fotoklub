@@ -31,7 +31,6 @@ include::doc_info.adoc[]
 * Hvor lysfølsom sensoren er
 * Den laveste ISO-værdi er normalt 100 og derefter fordobles den: 100, 200, 400, 800, 1.600, ...
 * For hvert trin fordobles følsomheden
-at man slet ikke får taget billedet.
 * Højere ISO giver mere billedstøj
 
 
