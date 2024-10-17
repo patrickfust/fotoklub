@@ -4,7 +4,7 @@
 
 ## Genereret
 Du kan finde det genererede her:
-https://patrickfust.github.io/eksponering/index.html
+https://patrickfust.github.io/fotoklub/eksponering/
 
 ## Inspirationseksempler til at bruge AsciiDoc
 - https://github.com/inponomarev/kstreams-examples
